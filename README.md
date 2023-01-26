@@ -29,3 +29,10 @@ The below table indicates country's which are good to visit and are few of the w
 | USA | To learn the latest Technology | 365 Days|
 | CHINA | To watch their working culture and industrail units | 90 Days |
 | AUSTRALIA | Especially for Kangaroo | 30 Days |
+
+***
+### **Pithy Quotes**
+
+> Just believe in you, you can By *"Maheshwar Punyam Anand"*
+
+>  Trust no one, Kill anyone but be only one By *"Billa"*
