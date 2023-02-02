@@ -74,3 +74,34 @@ Link for reference <https://stackoverflow.com/questions/61179458/svg-patterns-sc
 
 Code Snippet Link <https://css-tricks.com/snippets/svg/svg-patterns/>
 
+
+Select the following
+
+- [x] King
+
+- [ ] Queen
+
+- [ ] Soldier
+
+~~Hello World.~~
+
+__Hello**
+
+__Hello__
+
+_Hello_
+
+_Heee*
+
+- hello
+- mahesh
+- lalalal
+
+```
+
+shshshhs
+
+```
+jjjjj
+
+Hello function $f(x)=x^2+1$.
