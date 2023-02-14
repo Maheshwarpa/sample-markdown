@@ -1,0 +1,23 @@
+p.speech{
+    font 20px;
+    color black;
+    font-family 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p.direction .hover{
+    background-color lightgray;
+    font 25px;
+    color black;
+    font-family 'Times New Roman', Times, serif;
+}
+h5.HENRIETTE{
+    fontbold;
+    color bisque;
+    font-size 30px;
+    font-style oblique;
+}
+h5.JACQUES{
+    fontbold;
+    coloraqua;
+    font-size 30px;
+    font-style oblique;
+}
